@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manal AJAN, I'm 25 years old student based in Paris.</h1>
-<h3 align="center">ChatGPT Greetings, World👋, I'm Manal AJAN, also known as Kernel, a 25-year-old student residing in Paris. My passion lies in the captivating domains of Machine Learning and Data Science. As a fervent Python enthusiast, I'm continuously immersed in an exploration and learning adventure.</h3>
+<h3 align="center"> Hello World👋, I'm Manal AJAN, a 25-year-old student residing in Paris. My passion lies in the captivating domains of Machine Learning and Data Science. As a fervent Python enthusiast, I'm continuously immersed in an exploration and learning adventure.</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
